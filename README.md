@@ -2,7 +2,7 @@
 
 
 
-This is some of my attempts to use `pygame` for game development. The games are mainly based on the classic video games, and I will also do some interesting experiments as well if I have ideas.
+This is some of my attempts to use `pygame` for game development. The games are mainly based on the classic video games, and I will do some interesting experiments as well if I have ideas.
 
 ## Snake
 
